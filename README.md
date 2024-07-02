@@ -14,3 +14,7 @@
 - [How to provision a Red Hat Enterprise Linux virtual machine for Microsoft Azure](https://access.redhat.com/articles/uploading-rhel-image-to-azure)
 - [Unable to find RHEL PAYG and RHEL Gold Images in Azure China](https://access.redhat.com/solutions/6964732)
 - [User Guide: Red Hat Enterprise Linux on AWS](https://www.redhat.com/rhdc/managed-files/li-user-guide-rhel-on-aws-detail-447450-202307-en.pdf) - PDF download
+
+### Extended Life Cycle
+- [Enabling metering for Red Hat Enterprise Linux with Extended Lifecycle Support in your cloud environment](https://access.redhat.com/articles/7061563)
+- [Enabling Red Hat Enterprise Linux 7 Extended Life-cycle Support via Cloud Marketplaces](https://access.redhat.com/articles/rhel-7-els-on-cloud)
